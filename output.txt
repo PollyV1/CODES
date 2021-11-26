@@ -1,0 +1,22 @@
+/* 1 */ Bahay-kubo,
+/* 2 */ kahit munti
+/* 3 */ Ang halaman doon ay sari-sari
+/* 4 */ Singkamas at talong
+/* 5 */ Sigarilyas at mani
+/* 6 */ Sitaw, bataw, patani
+/* 7 */ Kundol, patola, upo't kalabasa
+/* 8 */ At tsaka mayro'n pang
+/* 9 */ Labanos, mustasa
+/* 10 */ Sibuyas, kamatis, bawang at luya
+/* 11 */ Sa paligid-ligid ay puno ng linga
+/* 12 */ Bahay-kubo, kahit munti
+/* 13 */ Ang halaman doon ay sari-sari
+/* 14 */ Singkamas at talong
+/* 15 */ Sigarilyas at mani
+/* 16 */ Sitaw, bataw, patani
+/* 17 */ Kundol, patola, upo't kalabasa
+/* 18 */ At tsaka mayro'n pang
+/* 19 */ Labanos, mustasa
+/* 20 */ Sibuyas, kamatis, bawang at luya
+/* 21 */ Sa paligid-ligid ay puno ng linga
+/* 22 */ Sa paligid-ligid ay puno ng linga
